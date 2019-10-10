@@ -184,6 +184,7 @@
         <object>Property__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
+	<!--
     <tabSettings>
         <tab>Broker__c</tab>
         <visibility>Visible</visibility>
@@ -195,5 +196,5 @@
     <tabSettings>
         <tab>Sample_Data_Import</tab>
         <visibility>Visible</visibility>
-    </tabSettings>
+    </tabSettings> -->
 </PermissionSet>
