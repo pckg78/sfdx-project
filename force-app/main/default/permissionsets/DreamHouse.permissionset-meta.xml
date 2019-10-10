@@ -190,11 +190,11 @@
         <visibility>Visible</visibility>
     </tabSettings>
     <tabSettings>
-        <tab>Property__c</tab>
+        <tab>Dream_House</tab>
         <visibility>Visible</visibility>
     </tabSettings>
     <tabSettings>
-        <tab>Sample_Data_Import</tab>
+        <tab>Property__c</tab>
         <visibility>Visible</visibility>
     </tabSettings> -->
 </PermissionSet>
